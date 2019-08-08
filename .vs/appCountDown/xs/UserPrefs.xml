@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{30EABD79-3381-48E4-994E-05092DB5B0A4}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="appCountDown/MainActivity.cs">
+    <Files>
+      <File FileName="appCountDown/MainActivity.cs" Line="21" Column="15" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.appCountDown AndroidDesignerPreferredTheme="Theme.AppCompat" AndroidDesignerPreferredDevice="Nexus One" PreferredExecutionTarget="Android.nexus_1" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
